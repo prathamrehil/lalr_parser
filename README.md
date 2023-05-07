@@ -1,11 +1,12 @@
-LALR parser
-===========
+developed by @prathamrehil
+
+# LALR parser
 
     An LALR parser or Look-Ahead LR parser is a simplified version of a Canonical LR parser
 
     This tool takes BNF grammar as input and produces a LALR parsing table. Then any expression can be checked
     against the given grammar
-    
+
     This tool displays following attributes of given BNF grammar :
         1. Terminals and Non Terminals
         2. First
